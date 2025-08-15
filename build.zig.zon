@@ -1,6 +1,6 @@
 .{
-    .name = .zig_args,
-    .fingerprint = 0xde71cd41e84dab8e,
+    .name = .args,
+    .fingerprint = 0x161b2ea2aae2220a,
     .version = "0.0.0",
     .minimum_zig_version = "0.14.0-dev.2801+4d8c24c6c",
 
